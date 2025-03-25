@@ -8,6 +8,7 @@ Data diambil berdasarkan kata kunci yang telah ditentukan. Untuk penentuan kata 
 Setelah data tweet dikumpulkan selanjutnya dilakukan klasifikasi teks dengan kecerdasan buatan, tujuannya untuk menentukan mana kalimat yang bermakna bencana dan mana yang bukan. Karena ada kalimat yang berisi kata kunci "banjir" atau "kebakaran" tapi makanya bukan tentang bencana, seperti:
 - hari ini banyak banjir diskon.
 - dia marah-marah seperti orang kebakaran jenggot
+
 Proses klasifikasi teks oleh kecerdasan buatan dilakukan pada aplikasi ini.
 ![SocioDisasterAlert](images/02.jpg)
 Selanjutnya aplikasi ini digunakan untuk melihat rekap kejadian bencana dengan melihat Dashboard. Dan juga dapat digunakan untuk melihat lokasi dan waktu kejadian bencana dari peta.
