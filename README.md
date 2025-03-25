@@ -13,3 +13,6 @@ Proses klasifikasi teks oleh kecerdasan buatan dilakukan pada aplikasi ini.
 Selanjutnya aplikasi ini digunakan untuk melihat rekap kejadian bencana dengan melihat Dashboard. Dan juga dapat digunakan untuk melihat lokasi dan waktu kejadian bencana dari peta.
 ![SocioDisasterAlert](images/03.jpg)
 ![SocioDisasterAlert](images/04.jpg)
+Kode program pada repository ini terdiri atas dua bagian yaitu:
+1. Backend
+2. Frontend
