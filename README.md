@@ -10,4 +10,6 @@ Setelah data tweet dikumpulkan selanjutnya dilakukan klasifikasi teks dengan kec
 2. dia marah-marah seperti orang kebakaran jenggot
 Proses klasifikasi teks oleh kecerdasan buatan dilakukan pada aplikasi ini.
 ![SocioDisasterAlert](images/02.jpg)
-
+Selanjutnya aplikasi ini digunakan untuk melihat rekap kejadian bencana dengan melihat Dashboard. Dan juga dapat digunakan untuk melihat lokasi dan waktu kejadian bencana dari peta.
+![SocioDisasterAlert](images/03.jpg)
+![SocioDisasterAlert](images/04.jpg)
